@@ -23,4 +23,6 @@ Estas condiciones fueron planteadas por el profesor del curso.
 5. Modificar el archivo `presentismo.txt` agregando una línea con su nombre completo.
 6. Agregar el archivo modificado al area de preparación de git con `git add presentismo.txt`.
 7. Confirmar los cambios realizados con `git commit -m MENSAJE`. Reemplacen _MENSAJE_ con su mensaje de commit, por ejemplo "Agrega presentismo: Cesar Morel".
-8. Subir los cambios al repositorio remoto con `git push'
+8. Subir los cambios al repositorio remoto con `git push`.
+
+![happy coding logo](./happy_coding.png)
