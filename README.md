@@ -2,6 +2,8 @@
 
 Este repositorio se abre para cumplir con el segundo desafío planteado en la comisión #22809 del curso React del programa Codo a Codo 2022 segundo cuatrimestre.
 
+## Equipo #1
+
 ## Condiciones
 
 Estas condiciones fueron planteadas por el profesor del curso.
